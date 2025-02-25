@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my First github repository
 <br>
-author ritesh singh
+author ritesh singh(Abes Eg College)
